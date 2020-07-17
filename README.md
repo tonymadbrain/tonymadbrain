@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Gatsby.js
+- 💬 Ask me about DevOps
+
 <!--
 **tonymadbrain/tonymadbrain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
