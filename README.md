@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a System Engineer (DevOps Engineer/Site Reliability Engineer call it as you wish). I'm from Russia. You can find me on [Twitter](https://twitter.com/tonymadbrain), or on [LinkedIn](https://www.linkedin.com/in/antonyryabov/).
+I'm a System Engineer (DevOps Engineer/Site Reliability Engineer call it as you wish). I'm from Russia, but living in the Netherlands. You can find me on [Twitter](https://twitter.com/tonymadbrain), or on [LinkedIn](https://www.linkedin.com/in/antonyryabov/).
 
 ## &#x270d; Blog & Writing
 
